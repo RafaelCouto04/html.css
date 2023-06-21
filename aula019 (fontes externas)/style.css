@@ -1,0 +1,29 @@
+
+
+
+/*Dafont - site*/
+
+@font-face {
+    font-family: "shine" ;
+    src: url("font/Starshines.ttf") format("truetype"), url("font/Starshines.otf") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+/*format::
+- opentype (oft)
+- truetype (ttf)
+- embedded-opentype
+- truetype-aat (apple advanced typography)
+- svg*/
+
+
+
+
+body {
+    font-family: arial, sans-serif;
+}
+
+h1 {
+    font: bolder 3em "shine", sans-serif;
+}

@@ -1,0 +1,23 @@
+
+
+
+
+
+
+body{
+   font: normal 16px arial, "sans serif";
+   text-align: left;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    text-indent: 40px;
+    /*tamanho do espaçamento do paragrafo*/
+}

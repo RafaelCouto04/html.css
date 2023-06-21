@@ -1,0 +1,28 @@
+
+
+/*Google fonts*/
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;500&family=Roboto:wght@100;400;900&family=Satisfy&display=swap');
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    /*Medidas absolutas: cm, mm, in, px, pt, pc
+      Medidas Relativas: em, en, rem, vw, vh, %*/
+
+      font-size: 1em;
+    /*16px =~ 1em*/
+
+    font-weight: 500;
+    /*lighter, normal, bold, bolder*/
+}
+
+h1 {
+    /*Shorthand font
+    font-style --> font-weight --> font-size --> font-family*/
+
+    font: italic bolder 3em Roboto, sans-serif;
+}
+
+h2 {
+    font: bold 2em "work sans", sans-serif;
+}

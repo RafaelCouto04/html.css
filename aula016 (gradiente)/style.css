@@ -1,0 +1,10 @@
+/*Configurações globais das CSS*/
+* {
+    height: 100%;
+}
+
+body {
+    background-image: linear-gradient(to bottom, #9000ff 40%, #F400E3, #FF0092,#FF0759,#FF7400,#FFB600);
+    background-attachment: fixed;
+}
+/*"to top" para cima e "to bottom" para baixo ou mudando para radial-gradiente e adicionando"circle" para fazer um gradiente circular*/

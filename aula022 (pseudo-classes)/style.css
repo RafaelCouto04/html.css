@@ -1,0 +1,31 @@
+
+
+
+
+
+div {
+    display: inline-block;
+    background-color: rgb(175, 175, 175);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    height: 200px; /*Altura*/
+    width: 200px; /*Largura*/
+    border: 1px solid rgb(0, 0, 0);
+}
+
+
+div:hover /*pseudo-classe de animação*/{
+    background-color: rgb(208, 255, 0);
+}
+
+
+/*div#d1 {
+    background-color: rgb(199, 199, 199);
+}*/
+
+
+
+
+
+
+

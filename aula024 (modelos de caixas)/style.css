@@ -1,0 +1,53 @@
+
+
+
+
+
+
+
+h1 {  /*Box level*/
+    height: 100px;
+    width: 400px;
+    background-color: rgb(155, 155, 155);
+    text-align: center;
+
+    border-width: 10px; /*Borda*/
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+
+    /*border: 10px solid black;   -->     Shorthand na ordem de cima    */
+
+
+
+    padding-top: 10px;  /*Preenchimento*/
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    
+    /*padding: 10px 10px 10px 10px;  -->   Shorthand na ordem de cima */
+
+
+
+    margin-top:40px;
+    margin-right: auto;
+    margin-bottom: 20px;
+    margin-left: auto;
+    
+    /*margin: 40px auto auto 20px; --> Shorthand na ordem de cima  */
+
+
+
+
+    outline-width: 2px; /*Fica entre a margem e o border*/
+    outline-style: dashed;
+    outline-color: rgb(255, 0, 21);
+
+    /*outline: 2px dashed red; -->  Shorthand   */
+}
+
+a { /*Inline level*/
+    border-width: 2px;
+    border-style: dashed;
+    border-color: red;
+}
+
