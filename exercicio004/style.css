@@ -141,10 +141,14 @@ main a {
 
 #ftandroid {
     text-align: center;
+    min-width: 320px;
+    max-width: 800px;
 }
 
 #ftpessoa {
     text-align: center;
+    min-width: 320px;
+    max-width: 800px;
 }
 
 #ftbugdroid {
@@ -200,7 +204,7 @@ main > div > #lista1 {
     height: 140px;
     width: 220px;
     padding: 10px;
-    margin-left: 5%;
+    margin-left: 2%;
 
 
 }
@@ -211,7 +215,7 @@ main > div > #lista2 {
     height: 140px;
     width: 220px;
     padding: 10px;
-    margin-left: 60%;
+    margin-left: 55%;
     margin-top: -176px;
 
 }
