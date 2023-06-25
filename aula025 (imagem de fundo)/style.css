@@ -1,0 +1,46 @@
+
+
+
+
+
+
+
+
+body {
+    background-color: rgb(255, 255, 255);
+    background-image: url("imagens/wallpaper001.jpg");
+}
+
+
+
+section{
+    margin-left: 20%;
+    margin: 14%;
+}
+
+.quadrado {
+    border: 1px solid rgba(0, 0, 0, 0.541);
+    width: 300px;
+    height: 200px;
+    background-color: rgb(216, 216, 216);
+    display: inline-block;
+    border-radius: 15px;
+}
+
+#q1 {
+    background-color: aqua;
+}
+
+#q2 {
+    background-image: linear-gradient(to bottom, red, orange);
+}
+
+#q3 {
+    background-image: url('imagens/pattern003.png');
+    color: rgb(255, 0, 0);
+}
+
+div > p {
+    text-align: center;
+    margin-top:90px;
+}
